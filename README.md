@@ -19,3 +19,5 @@ THEN I find a concise, descriptive title
 ```
 
 ## Finished Task Screenshots
+![Finished code screenshot](Develop\assets\images\hw1-screenshot-1.png)
+![Finished code screenshot](Develop\assets\images\hw1-screenshot-2.png)
