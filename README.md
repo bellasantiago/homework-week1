@@ -17,6 +17,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## How the task was tackled
+Since not all of the concepts in the acceptability criterias were addressed in the course at this point, the decision to undertake each acceptance criteria was done at a time through out the entire code.
+Taking this approach has allowed the developer to review the entire code several times while researching and understanding different aspects of the code.
+
+## Deployed application
+https://bellasantiago.github.io/homework-week1/
 
 ## Finished Task Screenshots
 ![Finished code screenshot](Develop\assets\images\hw1-screenshot-1.png)
