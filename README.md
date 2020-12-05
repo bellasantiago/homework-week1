@@ -25,5 +25,5 @@ Taking this approach has allowed the developer to review the entire code several
 https://bellasantiago.github.io/homework-week1/
 
 ## Finished Task Screenshots
-![Finished code screenshot](Develop\assets\images\hw1-screenshot-1.png)
-![Finished code screenshot](Develop\assets\images\hw1-screenshot-2.png)
+![Finished code screenshot](https://drive.google.com/file/d/1CcMmwBsIEZVr7uGeCDFLTMNMAeI8L2xL/view?usp=sharing) 
+![Finished code screenshot](https://drive.google.com/file/d/1GGYNUWVxiIF7BhFr1BXomafPimCdZ_-D/view?usp=sharing)
